@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "@sentry/node": "^7.34.0",
+        "axios": "^1.2.6",
+        "dotenv": "^16.0.3",
+        "mongodb": "^4.13.0",
+        "protobufjs": "^7.2.3"
+    }
+}
